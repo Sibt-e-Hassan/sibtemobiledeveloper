@@ -1,6 +1,6 @@
 <!-- 👋 GITHUB PROFILE README -->
-<h1 align="center">👋 Hi, I'm Sibt E</h1>
-<h3 align="center">🚀 Senior Android Developer | Kotlin | Jetpack Compose | Firebase | 7+ Years Experience</h3>
+<h1 align="center">👋 Hi, I'm Sibt E</h1> ./github-banner.png)
+<h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose | Firebase | 7+ Years Experience</h3>
 
 ---
 
