@@ -1,19 +1,22 @@
-<!-- 👋 GITHUB PROFILE README -->
-<h1 align="center">👋 Hi, I'm Sibt E</h1> ./github-banner.png)
-<h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose | Firebase | 7+ Years Experience</h3>
+<!-- === 👋 GITHUB PROFILE README === -->
+![Banner](./github-profile-banner.png)
+
+<h1 align="center">👋 Hi, I'm Sibt E</h1>
+<h3 align="center">🚀 Senior Android Developer | Kotlin | Jetpack Compose | Firebase | 7+ Years Experience</h3>
 
 ---
 
-### 👨‍💻 About Me
-I'm a **Senior Android Developer** with **7+ years of professional experience** crafting modern, scalable, and high-performance mobile apps.  
-I love building products that solve real problems and create seamless user experiences.  
+### 🧩 About Me
+I’m a **Senior Android Developer** with **7+ years** of experience designing and building robust, high-performing mobile applications.  
+I specialize in **Kotlin**, **Jetpack Compose**, **Firebase**, and **Clean Architecture** — delivering modern apps with exceptional user experience.
 
-💡 My expertise spans **Kotlin**, **Jetpack Compose**, **MVVM architecture**, and **Firebase**, focusing on clean architecture, efficiency, and maintainability.  
-🌍 Currently **open to full-time remote opportunities** and collaborations on impactful Android projects.
+💼 Currently seeking **full-time remote roles** in mobile app development.  
+🌍 Passionate about crafting digital solutions that make everyday life easier and smarter.  
+🧠 I believe in clean code, strong architecture, and continuous learning.
 
 ---
 
-### 🧩 Tech Stack
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -25,31 +28,34 @@ I love building products that solve real problems and create seamless user exper
 
 ---
 
-### 🏗️ Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **💳 Moor Digital Bank** | Secure KYC onboarding, biometric login, transactions & offline sync — production-ready banking app. | Kotlin, MVVM, Firebase |
-| **🚖 Joud Taxi (Women & Kids)** | Safety-first ride app with vetted drivers, SOS alerts, and live trip tracking. | Firebase Realtime DB, Maps |
-| **🏪 Business Panda** | Marketplace platform for sellers with shop management & onboarding features. | Kotlin, Jetpack Compose |
-| **🧠 Android Utilities Kit** | Reusable Kotlin utilities and helper functions for clean Android projects. | Kotlin, Coroutines |
-
+| 🧩 Project | 💬 Description | 🧠 Tech Stack |
+|------------|----------------|---------------|
+| **💳 Moor Digital Bank** | Production-ready banking app with KYC onboarding, biometric login & offline transactions. | Kotlin, MVVM, Firebase |
+| **🚖 Joud Taxi (Women & Kids)** | Safety-first ride app with SOS, vetted drivers, and real-time tracking. | Firebase, Maps, Realtime DB |
+| **🏪 Business Panda** | Marketplace platform for seller onboarding & store management. | Kotlin, Jetpack Compose |
+| **🧠 Android Utilities Kit** | Kotlin helper library for scalable Android apps. | Kotlin, Coroutines |
 
 ---
 
 ### 🌱 Currently Exploring
-- Advanced Jetpack Compose UI Animations  
-- Clean Architecture in Multi-Module Android Projects  
-- Integrating AI APIs into Android apps  
+- Advanced UI animations with **Jetpack Compose**
+- Multi-module Android app architecture
+- Integrating **AI APIs** into Android experiences
 
 ---
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sibtemobiledeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sibtedeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sibtemobiledeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sibtedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ **“Clean code, scalable architecture, and delightful user experiences — that’s what I build.”**
+⭐ *"Clean code, scalable architecture, and delightful user experiences — that’s what I build."*
